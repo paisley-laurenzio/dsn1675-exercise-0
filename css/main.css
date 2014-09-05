@@ -1,0 +1,45 @@
+html{
+background-color: grey;
+}
+h1 {
+    font-family: sans-serif;
+    color: maroon;
+}
+h2 {
+    font-family: sans-serif;
+    color: maroon;
+}
+
+img {
+    width: 30rem;
+}
+
+figcaption {
+    font-family: sans-serif;
+    color: grey;
+}
+
+p {
+    margin: auto;
+    font-family: sans-serif;
+}
+
+blockquote {
+    font-family: Gorgia;
+}
+
+dl{
+    border: 1px solid red;
+    overflow: hidden;
+}
+dt{
+    float: left;
+    clear: left;
+    width: 8rem;
+}
+
+dd {
+    float: left;
+    margin: 0;
+    padding: 0;
+}
